@@ -120,13 +120,21 @@
               "type": "outline",
               "state": {}
             }
+          },
+          {
+            "id": "b20d36ce793ab149",
+            "type": "leaf",
+            "state": {
+              "type": "git-view",
+              "state": {}
+            }
           }
-        ]
+        ],
+        "currentTab": 4
       }
     ],
     "direction": "horizontal",
-    "width": 300,
-    "collapsed": true
+    "width": 290.5
   },
   "left-ribbon": {
     "hiddenItems": {
