@@ -1,4 +1,5 @@
 {
   "newLinkFormat": "relative",
-  "livePreview": false
+  "livePreview": false,
+  "promptDelete": false
 }
