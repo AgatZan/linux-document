@@ -5,9 +5,14 @@
 
 [[README|'|'отвечает за текст заменяемый]] - ссылка на документ внутри [[]]
 
+[тоже самое](README)
+
 [ссылка на внешний ресурс](https://habr.com/ru/companies/inpglobal/articles/722792/)
 
-![[A/Flyonov_Linux-glazami-hakera.671551.pdf|Книга]]
+![[README|только встраивает]]
+
+
+<iframe src="https://publish.obsidian.md/help-ru/Руководства/Встраивание+вложений+в+заметки"></iframe>
 
 
 

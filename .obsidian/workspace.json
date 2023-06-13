@@ -14,7 +14,7 @@
               "type": "markdown",
               "state": {
                 "file": "Шпаргалка по Markdown.md",
-                "mode": "source",
+                "mode": "preview",
                 "source": true
               }
             }
@@ -131,12 +131,12 @@
   },
   "active": "650e21cb34bef393",
   "lastOpenFiles": [
+    "README.md",
+    "Шпаргалка по Markdown.md",
     "A/Flyonov_Linux-glazami-hakera.671551.pdf",
     "A",
     "Новая папка",
     "Без названия.md",
-    "Шпаргалка по Markdown.md",
-    "README.md",
     "ASDA.md"
   ]
 }
