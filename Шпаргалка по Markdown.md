@@ -24,6 +24,8 @@
 
 [ссылка на внешний ресурс](https://habr.com/ru/companies/inpglobal/articles/722792/) ^fae7d3
 
+![[Шпаргалка по Markdown#Форматирование текста]]
+
 ![[README|только встраивает]] ^8a0464
 
 пауза
