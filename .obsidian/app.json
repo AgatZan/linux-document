@@ -3,5 +3,6 @@
   "livePreview": false,
   "promptDelete": false,
   "newFileLocation": "current",
-  "attachmentFolderPath": "/Исходники"
+  "attachmentFolderPath": "/Исходники",
+  "alwaysUpdateLinks": true
 }

@@ -65,7 +65,8 @@
               "state": {}
             }
           }
-        ]
+        ],
+        "currentTab": 1
       }
     ],
     "direction": "horizontal",
@@ -138,7 +139,7 @@
             }
           }
         ],
-        "currentTab": 3
+        "currentTab": 1
       }
     ],
     "direction": "horizontal",
@@ -154,7 +155,7 @@
       "command-palette:Открыть палитру команд": false
     }
   },
-  "active": "55b908d64807eb58",
+  "active": "efd3cdf4129d680d",
   "lastOpenFiles": [
     "Исходники",
     "[.md",
