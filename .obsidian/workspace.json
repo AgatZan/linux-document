@@ -14,7 +14,7 @@
               "type": "markdown",
               "state": {
                 "file": "Шпаргалка по Markdown.md",
-                "mode": "preview",
+                "mode": "source",
                 "source": true
               }
             }
@@ -155,7 +155,7 @@
       "command-palette:Открыть палитру команд": false
     }
   },
-  "active": "efd3cdf4129d680d",
+  "active": "650e21cb34bef393",
   "lastOpenFiles": [
     "Исходники",
     "[.md",

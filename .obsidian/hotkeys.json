@@ -7,5 +7,14 @@
       "key": "1"
     }
   ],
-  "workspace:goto-tab-1": []
+  "workspace:goto-tab-1": [],
+  "editor:insert-wikilink": [
+    {
+      "modifiers": [
+        "Alt",
+        "Mod"
+      ],
+      "key": "K"
+    }
+  ]
 }
