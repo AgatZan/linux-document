@@ -13,8 +13,8 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "README.md",
-                "mode": "preview",
+                "file": "Шпаргалка по Markdown.md",
+                "mode": "source",
                 "source": true
               }
             }
@@ -85,7 +85,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "README.md",
+                "file": "Шпаргалка по Markdown.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -108,7 +108,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "README.md"
+                "file": "Шпаргалка по Markdown.md"
               }
             }
           },
@@ -139,8 +139,8 @@
   },
   "active": "650e21cb34bef393",
   "lastOpenFiles": [
-    "Шпаргалка по Markdown.md",
     "README.md",
+    "Шпаргалка по Markdown.md",
     "A/Flyonov_Linux-glazami-hakera.671551.pdf",
     "A",
     "Новая папка",
