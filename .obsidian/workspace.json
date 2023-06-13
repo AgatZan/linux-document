@@ -13,7 +13,7 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "Без названия.md",
+                "file": "Шпаргалка по Markdown.md",
                 "mode": "source",
                 "source": false
               }
@@ -85,7 +85,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "Без названия.md",
+                "file": "Шпаргалка по Markdown.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -102,7 +102,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "Без названия.md",
+                "file": "Шпаргалка по Markdown.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -125,7 +125,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "Без названия.md"
+                "file": "Шпаргалка по Markdown.md"
               }
             }
           },
@@ -154,9 +154,9 @@
       "command-palette:Открыть палитру команд": false
     }
   },
-  "active": "8ae77709aa5d34de",
+  "active": "55b908d64807eb58",
   "lastOpenFiles": [
     "README.md",
-    "Без названия.md"
+    "Шпаргалка по Markdown.md"
   ]
 }
