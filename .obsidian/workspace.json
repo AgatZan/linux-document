@@ -13,26 +13,13 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "Сеть/Технологии передачи.md",
-                "mode": "source",
-                "source": true
-              }
-            }
-          },
-          {
-            "id": "018801035ec17a1e",
-            "type": "leaf",
-            "state": {
-              "type": "markdown",
-              "state": {
-                "file": "Сеть/Размер сети передачи.md",
+                "file": "Сеть/Локальная сеть.md",
                 "mode": "source",
                 "source": true
               }
             }
           }
-        ],
-        "currentTab": 1
+        ]
       }
     ],
     "direction": "vertical"
@@ -98,7 +85,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "Сеть/Размер сети передачи.md",
+                "file": "Сеть/Локальная сеть.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -121,7 +108,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "Сеть/Размер сети передачи.md"
+                "file": "Сеть/Локальная сеть.md"
               }
             }
           },
@@ -139,7 +126,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "Сеть/Размер сети передачи.md",
+                "file": "Сеть/Локальная сеть.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -159,11 +146,11 @@
             }
           }
         ],
-        "currentTab": 4
+        "currentTab": 5
       }
     ],
     "direction": "horizontal",
-    "width": 200
+    "width": 268.5
   },
   "left-ribbon": {
     "hiddenItems": {
@@ -176,17 +163,19 @@
       "table-editor-obsidian:Advanced Tables Toolbar": false
     }
   },
-  "active": "8d44d25cd01be6c3",
+  "active": "650e21cb34bef393",
   "lastOpenFiles": [
-    "Сеть/Классификация сетей.md",
     "Сеть/Размер сети передачи.md",
-    "Сеть/Размер.md",
+    "Сеть/Локальная сеть.md",
+    "Сеть/Персональная сеть (PAN).md",
     "Сеть/Технологии передачи.md",
+    "Сеть/Сети с передачей от узла к узлу.md",
+    "Сеть/Классификация сетей.md",
+    "Сеть/Размер.md",
     "Сеть/Формы электронной коммерции.md",
     "Сеть/Широковещательные сети.md",
     "Сеть/Многоадресная передача.md",
     "термины/Широковещательная передача.md",
-    "Сеть/Сети с передачей от узла к узлу.md",
     "термины/пакет.md",
     "термины",
     "Сеть/Равно-ранговые сети (peer-to-peer).md",
