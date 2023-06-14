@@ -13,7 +13,7 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "Сеть/Клиент-серверная модель.md",
+                "file": "Сеть/Равно-ранговые сети (peer-to-peer).md",
                 "mode": "source",
                 "source": false
               }
@@ -85,7 +85,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "Сеть/Клиент-серверная модель.md",
+                "file": "Сеть/Равно-ранговые сети (peer-to-peer).md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -108,7 +108,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "Сеть/Клиент-серверная модель.md"
+                "file": "Сеть/Равно-ранговые сети (peer-to-peer).md"
               }
             }
           },
@@ -126,7 +126,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "Сеть/Клиент-серверная модель.md",
+                "file": "Сеть/Равно-ранговые сети (peer-to-peer).md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -142,7 +142,7 @@
       }
     ],
     "direction": "horizontal",
-    "width": 290.5
+    "width": 200
   },
   "left-ribbon": {
     "hiddenItems": {
@@ -157,8 +157,10 @@
   },
   "active": "650e21cb34bef393",
   "lastOpenFiles": [
-    "Шпаргалка по Markdown.md",
     "Сеть/Клиент-серверная модель.md",
+    "Шпаргалка по Markdown.md",
+    "Сеть/Равно-ранговые сети (peer-to-peer).md",
+    "Исходники/browser_K437Z8U7MD.png",
     "Сеть",
     "Исходники",
     "[.md",
