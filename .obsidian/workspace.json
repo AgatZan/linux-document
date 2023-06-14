@@ -13,7 +13,7 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "Шпаргалка по Markdown.md",
+                "file": "Сеть/Клиент-серверная модель.md",
                 "mode": "source",
                 "source": true
               }
@@ -85,7 +85,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "Шпаргалка по Markdown.md",
+                "file": "Сеть/Клиент-серверная модель.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -108,7 +108,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "Шпаргалка по Markdown.md"
+                "file": "Сеть/Клиент-серверная модель.md"
               }
             }
           },
@@ -126,7 +126,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "Шпаргалка по Markdown.md",
+                "file": "Сеть/Клиент-серверная модель.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -157,6 +157,8 @@
   "active": "650e21cb34bef393",
   "lastOpenFiles": [
     "Шпаргалка по Markdown.md",
+    "Сеть/Клиент-серверная модель.md",
+    "Сеть",
     "Исходники",
     "[.md",
     "README.md",
