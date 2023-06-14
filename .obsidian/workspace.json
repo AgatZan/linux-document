@@ -14,12 +14,25 @@
               "type": "markdown",
               "state": {
                 "file": "Сеть/Локальная сеть.md",
-                "mode": "source",
+                "mode": "preview",
+                "source": true
+              }
+            }
+          },
+          {
+            "id": "b7e3744fcb279393",
+            "type": "leaf",
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "Сеть/Точка доступа (AP).md",
+                "mode": "preview",
                 "source": true
               }
             }
           }
-        ]
+        ],
+        "currentTab": 1
       }
     ],
     "direction": "vertical"
@@ -85,7 +98,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "Сеть/Локальная сеть.md",
+                "file": "Сеть/Точка доступа (AP).md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -108,7 +121,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "Сеть/Локальная сеть.md"
+                "file": "Сеть/Точка доступа (AP).md"
               }
             }
           },
@@ -126,7 +139,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "Сеть/Локальная сеть.md",
+                "file": "Сеть/Точка доступа (AP).md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -163,10 +176,12 @@
       "table-editor-obsidian:Advanced Tables Toolbar": false
     }
   },
-  "active": "650e21cb34bef393",
+  "active": "b7e3744fcb279393",
   "lastOpenFiles": [
-    "Сеть/Размер сети передачи.md",
     "Сеть/Локальная сеть.md",
+    "Сеть/Точка доступа (AP).md",
+    "термины/Сеть предприятия.md",
+    "Сеть/Размер сети передачи.md",
     "Сеть/Персональная сеть (PAN).md",
     "Сеть/Технологии передачи.md",
     "Сеть/Сети с передачей от узла к узлу.md",
