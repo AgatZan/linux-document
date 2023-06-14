@@ -18,8 +18,21 @@
                 "source": false
               }
             }
+          },
+          {
+            "id": "4ac6abfc2b9a8995",
+            "type": "leaf",
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "Сеть/Технологии передачи.md",
+                "mode": "source",
+                "source": true
+              }
+            }
           }
-        ]
+        ],
+        "currentTab": 1
       }
     ],
     "direction": "vertical"
@@ -85,7 +98,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "Сеть/Формы электронной коммерции.md",
+                "file": "Сеть/Технологии передачи.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -108,7 +121,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "Сеть/Формы электронной коммерции.md"
+                "file": "Сеть/Технологии передачи.md"
               }
             }
           },
@@ -126,7 +139,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "Сеть/Формы электронной коммерции.md",
+                "file": "Сеть/Технологии передачи.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -155,10 +168,11 @@
       "table-editor-obsidian:Advanced Tables Toolbar": false
     }
   },
-  "active": "650e21cb34bef393",
+  "active": "4ac6abfc2b9a8995",
   "lastOpenFiles": [
-    "Сеть/Равно-ранговые сети (peer-to-peer).md",
     "Сеть/Формы электронной коммерции.md",
+    "Сеть/Технологии передачи.md",
+    "Сеть/Равно-ранговые сети (peer-to-peer).md",
     "Сеть/Клиент-серверная модель.md",
     "Шпаргалка по Markdown.md",
     "Исходники/browser_K437Z8U7MD.png",
