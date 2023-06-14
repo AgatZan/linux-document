@@ -25,7 +25,7 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "Сеть/Технологии передачи.md",
+                "file": "термины/пакет.md",
                 "mode": "source",
                 "source": true
               }
@@ -98,7 +98,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "Сеть/Технологии передачи.md",
+                "file": "термины/пакет.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -121,7 +121,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "Сеть/Технологии передачи.md"
+                "file": "термины/пакет.md"
               }
             }
           },
@@ -139,7 +139,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "Сеть/Технологии передачи.md",
+                "file": "термины/пакет.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -170,8 +170,11 @@
   },
   "active": "4ac6abfc2b9a8995",
   "lastOpenFiles": [
-    "Сеть/Формы электронной коммерции.md",
+    "термины",
+    "Сеть/Сети с передачей от узла к узлу.md",
+    "термины/пакет.md",
     "Сеть/Технологии передачи.md",
+    "Сеть/Формы электронной коммерции.md",
     "Сеть/Равно-ранговые сети (peer-to-peer).md",
     "Сеть/Клиент-серверная модель.md",
     "Шпаргалка по Markdown.md",
