@@ -25,7 +25,7 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "термины/Без названия.md",
+                "file": "термины/Подсеть.md",
                 "mode": "source",
                 "source": true
               }
@@ -98,7 +98,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "термины/Без названия.md",
+                "file": "термины/Подсеть.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -121,7 +121,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "термины/Без названия.md"
+                "file": "термины/Подсеть.md"
               }
             }
           },
@@ -139,7 +139,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "термины/Без названия.md",
+                "file": "термины/Подсеть.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -159,7 +159,7 @@
             }
           }
         ],
-        "currentTab": 5
+        "currentTab": 3
       }
     ],
     "direction": "horizontal",
@@ -176,10 +176,11 @@
       "table-editor-obsidian:Advanced Tables Toolbar": false
     }
   },
-  "active": "55ee2ee77950a87b",
+  "active": "124bfb265a9b05ce",
   "lastOpenFiles": [
     "Сеть/Глобальная сеть.md",
-    "термины/Без названия.md",
+    "термины/Подсеть.md",
+    "термины/Хост.md",
     "Сеть/Классификация сетей.md",
     "Сеть/Муниципальная сеть.md",
     "Сеть/Стандарт IEEE 802.16 (WiMax).md",
@@ -197,7 +198,7 @@
     "Сеть/Размер.md",
     "Сеть/Формы электронной коммерции.md",
     "Сеть/Широковещательные сети.md",
-    "термины/пакет.md",
+    "термины/Пакет.md",
     "термины",
     "Сеть/Равно-ранговые сети (peer-to-peer).md",
     "Сеть/Клиент-серверная модель.md",
@@ -209,7 +210,6 @@
     "README.md",
     "A/Flyonov_Linux-glazami-hakera.671551.pdf",
     "A",
-    "Новая папка",
-    "Без названия.md"
+    "Новая папка"
   ]
 }
