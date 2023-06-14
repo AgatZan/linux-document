@@ -13,13 +13,26 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "Сеть/Сети с передачей от узла к узлу.md",
+                "file": "Сеть/Муниципальная сеть.md",
                 "mode": "source",
                 "source": false
               }
             }
+          },
+          {
+            "id": "55ee2ee77950a87b",
+            "type": "leaf",
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "Сеть/Муниципальная сеть.md",
+                "mode": "source",
+                "source": true
+              }
+            }
           }
-        ]
+        ],
+        "currentTab": 1
       }
     ],
     "direction": "vertical"
@@ -85,7 +98,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "Сеть/Сети с передачей от узла к узлу.md",
+                "file": "Сеть/Муниципальная сеть.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -108,7 +121,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "Сеть/Сети с передачей от узла к узлу.md"
+                "file": "Сеть/Муниципальная сеть.md"
               }
             }
           },
@@ -126,7 +139,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "Сеть/Сети с передачей от узла к узлу.md",
+                "file": "Сеть/Муниципальная сеть.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -163,12 +176,14 @@
       "table-editor-obsidian:Advanced Tables Toolbar": false
     }
   },
-  "active": "650e21cb34bef393",
+  "active": "55ee2ee77950a87b",
   "lastOpenFiles": [
+    "Сеть/Стандарт IEEE 802.16 (WiMax).md",
+    "Сеть/Муниципальная сеть.md",
+    "Сеть/Многоадресная передача.md",
+    "Сеть/Сети с передачей от узла к узлу.md",
     "Сеть/Технологии передачи.md",
     "Сеть/Классификация сетей.md",
-    "Сеть/Муниципальная сеть.md",
-    "Сеть/Сети с передачей от узла к узлу.md",
     "Сеть/Стандарт IEEE 802.11 (WiFi).md",
     "Сеть/Точка доступа (AP).md",
     "Сеть/Локальная сеть.md",
@@ -181,7 +196,6 @@
     "Сеть/Размер.md",
     "Сеть/Формы электронной коммерции.md",
     "Сеть/Широковещательные сети.md",
-    "Сеть/Многоадресная передача.md",
     "термины/пакет.md",
     "термины",
     "Сеть/Равно-ранговые сети (peer-to-peer).md",
