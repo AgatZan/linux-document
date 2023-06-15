@@ -25,14 +25,38 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "Сеть/Динамическое назначение канала.md",
+                "file": "Сеть/Глобальная сеть.md",
+                "mode": "source",
+                "source": false
+              }
+            }
+          },
+          {
+            "id": "f6fce03f69c048fc",
+            "type": "leaf",
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "термины/Подсеть.md",
                 "mode": "preview",
+                "source": true
+              }
+            }
+          },
+          {
+            "id": "fc397dd202681809",
+            "type": "leaf",
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "термины/Линия связи.md",
+                "mode": "source",
                 "source": true
               }
             }
           }
         ],
-        "currentTab": 1
+        "currentTab": 3
       }
     ],
     "direction": "vertical"
@@ -98,7 +122,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "Сеть/Динамическое назначение канала.md",
+                "file": "термины/Линия связи.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -121,7 +145,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "Сеть/Динамическое назначение канала.md"
+                "file": "термины/Линия связи.md"
               }
             }
           },
@@ -139,7 +163,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "Сеть/Динамическое назначение канала.md",
+                "file": "термины/Линия связи.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -176,15 +200,17 @@
       "table-editor-obsidian:Advanced Tables Toolbar": false
     }
   },
-  "active": "55ee2ee77950a87b",
+  "active": "fc397dd202681809",
   "lastOpenFiles": [
-    "Сеть/Широковещательные сети.md",
+    "термины/Переключающий элемент.md",
+    "термины/Подсеть.md",
+    "термины/Линия связи.md",
+    "Сеть/Глобальная сеть.md",
     "Сеть/Динамическое назначение канала.md",
+    "Сеть/Широковещательные сети.md",
     "Сеть/Статическое назначение канала.md",
     "Сеть/Локальная сеть.md",
     "Сеть/Муниципальная сеть.md",
-    "Сеть/Глобальная сеть.md",
-    "термины/Подсеть.md",
     "термины/Хост.md",
     "Сеть/Классификация сетей.md",
     "Сеть/Стандарт IEEE 802.16 (WiMax).md",
@@ -203,8 +229,6 @@
     "термины/Пакет.md",
     "термины",
     "Сеть/Равно-ранговые сети (peer-to-peer).md",
-    "Сеть/Клиент-серверная модель.md",
-    "Шпаргалка по Markdown.md",
     "Исходники/browser_K437Z8U7MD.png",
     "Сеть",
     "Исходники",
