@@ -37,7 +37,7 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "Сеть/Иерархия протоколов.md",
+                "file": "термины/Протокол.md",
                 "mode": "source",
                 "source": true
               }
@@ -122,7 +122,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "Сеть/Иерархия протоколов.md",
+                "file": "термины/Протокол.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -145,7 +145,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "Сеть/Иерархия протоколов.md"
+                "file": "термины/Протокол.md"
               }
             }
           },
@@ -163,7 +163,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "Сеть/Иерархия протоколов.md",
+                "file": "термины/Протокол.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -202,8 +202,9 @@
   },
   "active": "f6fce03f69c048fc",
   "lastOpenFiles": [
-    "термины/Шлюз.md",
     "Сеть/Иерархия протоколов.md",
+    "термины/Протокол.md",
+    "термины/Шлюз.md",
     "Сеть/Статическое назначение канала.md",
     "Сеть/Динамическое назначение канала.md",
     "Сеть/Широковещательные сети.md",
@@ -227,7 +228,6 @@
     "Сеть/Многоадресная передача.md",
     "Сеть/Стандарт IEEE 802.11 (WiFi).md",
     "Сеть/Точка доступа (AP).md",
-    "термины/Сеть предприятия.md",
     "термины",
     "Исходники/browser_K437Z8U7MD.png",
     "Сеть",
