@@ -25,8 +25,8 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "термины/Подсеть.md",
-                "mode": "source",
+                "file": "Сеть/Локальная сеть.md",
+                "mode": "preview",
                 "source": true
               }
             }
@@ -98,7 +98,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "Сеть/Муниципальная сеть.md",
+                "file": "Сеть/Локальная сеть.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -121,7 +121,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "Сеть/Муниципальная сеть.md"
+                "file": "Сеть/Локальная сеть.md"
               }
             }
           },
@@ -139,7 +139,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "Сеть/Муниципальная сеть.md",
+                "file": "Сеть/Локальная сеть.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -176,13 +176,13 @@
       "table-editor-obsidian:Advanced Tables Toolbar": false
     }
   },
-  "active": "124bfb265a9b05ce",
+  "active": "55ee2ee77950a87b",
   "lastOpenFiles": [
+    "Сеть/Муниципальная сеть.md",
     "Сеть/Глобальная сеть.md",
     "термины/Подсеть.md",
     "термины/Хост.md",
     "Сеть/Классификация сетей.md",
-    "Сеть/Муниципальная сеть.md",
     "Сеть/Стандарт IEEE 802.16 (WiMax).md",
     "Сеть/Многоадресная передача.md",
     "Сеть/Сети с передачей от узла к узлу.md",
