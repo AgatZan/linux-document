@@ -37,7 +37,7 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "термины/Интерфейс.md",
+                "file": "термины/Хост.md",
                 "mode": "source",
                 "source": true
               }
@@ -122,7 +122,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "термины/Интерфейс.md",
+                "file": "термины/Хост.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -145,7 +145,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "термины/Интерфейс.md"
+                "file": "термины/Хост.md"
               }
             }
           },
@@ -163,7 +163,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "термины/Интерфейс.md",
+                "file": "термины/Хост.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -202,8 +202,8 @@
   },
   "active": "f6fce03f69c048fc",
   "lastOpenFiles": [
-    "Сеть/Иерархия протоколов.md",
     "термины/Интерфейс.md",
+    "Сеть/Иерархия протоколов.md",
     "термины/Протокол.md",
     "термины/Шлюз.md",
     "Сеть/Статическое назначение канала.md",
