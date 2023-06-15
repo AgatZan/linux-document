@@ -37,7 +37,7 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "термины/Протокол.md",
+                "file": "термины/Интерфейс.md",
                 "mode": "source",
                 "source": true
               }
@@ -122,7 +122,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "термины/Протокол.md",
+                "file": "термины/Интерфейс.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -145,7 +145,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "термины/Протокол.md"
+                "file": "термины/Интерфейс.md"
               }
             }
           },
@@ -163,7 +163,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "термины/Протокол.md",
+                "file": "термины/Интерфейс.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -203,6 +203,7 @@
   "active": "f6fce03f69c048fc",
   "lastOpenFiles": [
     "Сеть/Иерархия протоколов.md",
+    "термины/Интерфейс.md",
     "термины/Протокол.md",
     "термины/Шлюз.md",
     "Сеть/Статическое назначение канала.md",
@@ -227,7 +228,6 @@
     "Сеть/Стандарт IEEE 802.16 (WiMax).md",
     "Сеть/Многоадресная передача.md",
     "Сеть/Стандарт IEEE 802.11 (WiFi).md",
-    "Сеть/Точка доступа (AP).md",
     "термины",
     "Исходники/browser_K437Z8U7MD.png",
     "Сеть",
