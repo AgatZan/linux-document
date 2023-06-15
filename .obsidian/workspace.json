@@ -37,7 +37,7 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "Сеть/Иерархия протоколов.md",
+                "file": "термины/Стек протоколов.md",
                 "mode": "source",
                 "source": true
               }
@@ -122,7 +122,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "Сеть/Иерархия протоколов.md",
+                "file": "термины/Стек протоколов.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -145,7 +145,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "Сеть/Иерархия протоколов.md"
+                "file": "термины/Стек протоколов.md"
               }
             }
           },
@@ -163,7 +163,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "Сеть/Иерархия протоколов.md",
+                "file": "термины/Стек протоколов.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -202,8 +202,8 @@
   },
   "active": "f6fce03f69c048fc",
   "lastOpenFiles": [
-    "термины/Стек протоколов.md",
     "Сеть/Иерархия протоколов.md",
+    "термины/Стек протоколов.md",
     "термины/Архитектура сети.md",
     "термины/Интерфейс.md",
     "термины/Хост.md",
